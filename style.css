@@ -7,7 +7,7 @@ body{
 
 .diet_section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 6rem;
 }
 
 .orange_color{
@@ -15,35 +15,35 @@ body{
 }
 
 .best_font{
-    font-size: 22px;
+    font-size: 1.4rem;
     color:rgb(148, 144, 144);
-    margin: 80px 0;
+    margin: 4rem 0;
 }
 
 .btn_design{
     text-decoration: none;
     font-weight: 500;
     background-image: linear-gradient(orange,tomato);
-    padding: 20px 35px;
-    border-radius: 20px;
+    padding: 1.3rem 2.4rem;
+    border-radius: 2rem;
     color: white;
 }
 
 h1{
-    font-size: 60px;
-    line-height: 35px;
+    font-size: 3.7rem;
+    line-height: 2.4rem;
 }
 
 h2{
-    font-size: 30px;
-    line-height: 35px;
+    font-size: 2rem;
+    line-height: 2rem;
     text-align: start;
 }
 
 .half_width{
     width: 50%;
-    margin-top: 100px;
-    margin-left: 100px;
+    margin-top: 3.5rem;
+    margin-left: 5.5rem;
 }
 .half_width_first_img{
     width: 85%;
@@ -55,18 +55,18 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 700px;
+    height: 41rem;
 }
 
 .half_width_second_img{
     width: 60%;
     height:100%;
-    margin-left:100px;
+    margin-left:6rem;
 }
 
 .recipie_section{
     text-align: center;
-    margin: 100px 0;
+    margin: 7rem 0;
 }
 
 .recipie_section_details{
@@ -76,18 +76,18 @@ h2{
 
 .recipie_card_head{
     display: flex;
-    margin-top: 50px;
+    margin-top: 3rem;
 }
 
 .recipie_card{
     width: 40%;
     margin-left:5%;
     box-shadow: 0 2px 6px gray;
-    border-radius: 20px;
-    padding: 20px;
+    border-radius: 1.5rem;
+    padding: 1.3rem;
 }
 .recipie_card p{
-    font-size: 18px;
+    font-size: 1rem;
     color:rgb(148, 144, 144);
     text-align: start;
 }
@@ -124,5 +124,5 @@ footer h3{
 }
 footer p{
     color: white;
-    font-size: 14px;
+    font-size: 0.5;
 }
