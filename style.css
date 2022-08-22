@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.diet_section{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.orange_color{
+    color:orange;
+}
+
+.best_font{
+    font-size: 22px;
+    color:rgb(148, 144, 144);
+    margin: 80px 0;
+}
+
+.btn_design{
+    text-decoration: none;
+    font-weight: 500;
+    background-image: linear-gradient(orange,tomato);
+    padding: 20px 35px;
+    border-radius: 20px;
+    color: white;
+}
+
+h1{
+    font-size: 60px;
+    line-height: 35px;
+}
+
+h2{
+    font-size: 30px;
+    line-height: 35px;
+    text-align: start;
+}
+
+.half_width{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.half_width_first_img{
+    width: 85%;
+}
+
+.about_section{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+
+.half_width_second_img{
+    width: 60%;
+    height:100%;
+    margin-left:100px;
+}
+
+.recipie_section{
+    text-align: center;
+    margin: 100px 0;
+}
+
+.recipie_section_details{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.recipie_card_head{
+    display: flex;
+    margin-top: 50px;
+}
+
+.recipie_card{
+    width: 40%;
+    margin-left:5%;
+    box-shadow: 0 2px 6px gray;
+    border-radius: 20px;
+    padding: 20px;
+}
+.recipie_card p{
+    font-size: 18px;
+    color:rgb(148, 144, 144);
+    text-align: start;
+}
+.recipie_card img{
+    width: 98%;
+}
+
+.last_card_section{
+    display: flex;
+    width: 85%;
+    margin: 6rem auto;
+    text-align: center;
+    box-shadow: 0 2px 6px gray;
+    padding: 3rem;
+    border-radius: 2rem;
+}
+
+.three_card_design{
+    margin: 0 7rem;
+}
+.three_card_design h3{
+    font-size: 2.8rem;
+    line-height: 0.5rem;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 3rem;
+}
+footer h3{
+    color: grey;
+    font-size: 2rem;
+}
+footer p{
+    color: white;
+    font-size: 14px;
+}
